@@ -1,0 +1,10 @@
+// *****************************************************
+// AVR address constants (localparams)
+//  for registers used by Xcelerator Blocks (XBs) 
+// *****************************************************
+
+localparam USB_CTRL_ADDR1 = 8'hE0;
+localparam USB_BTNS_ADDR1 = 8'hE1;
+localparam USB_XMOV_ADDR1 = 8'hE2;
+localparam USB_YMOV_ADDR1 = 8'hE3;
+localparam USB_SCRL_ADDR1 = 8'hE4;

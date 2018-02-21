@@ -1,0 +1,9 @@
+name=XLR8USB
+version=1.0.0
+author=Alorium Technology
+maintainer=Alorium Technology <info@aloriumtech.com>
+sentence=USB FullSpeed (Mouse) host interface
+paragraph=This XB is used to host a USB connection from the XLR8 to a USB fullspeed Mouse device
+category=Uncategorized
+url=https://github.com/AloriumTechnology/XLR8USB
+architectures=avr
